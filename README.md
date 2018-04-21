@@ -3,13 +3,12 @@
 may not launch).
 
 ### PLATFORM :
--Language : C++11
--Library Used : SDL2
--Extensions Used : SDL_ttf & SDL_mixer
--Compiler : MinGW
+- Language : C++11
+- Library Used : SDL2
+- Extensions Used : SDL_ttf & SDL_mixer
+- Compiler : MinGW
 
-Developed in Windows 10 using CodeBlocks IDE. The source file is present as a CodeBlocks Project in folder “SOURCE”.
-The Game runs on Windows, tested on Windows 10.
+Developed in Windows 10 using CodeBlocks IDE. The source file is present as a CodeBlocks Project in folder “SOURCE”. The Game runs on Windows, tested on Windows 10.
 
 ### ARCHITECTURE:
 - Class Grid contains the game board and the associated functionalities like checking a
