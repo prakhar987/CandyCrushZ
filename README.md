@@ -1,5 +1,7 @@
 # A Candy Crush Style Game (C++/Windows)
-![Screenshot](/images/screenshot_initial.png?raw=true "Intial Screen")
+![Screenshot](shot1.png)
+![Screenshot Game](shot2.png)
+
 (WARNING : Please ensure you have a working audio device to run this game, else game
 may not launch).
 
